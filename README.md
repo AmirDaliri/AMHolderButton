@@ -1,7 +1,7 @@
 
 # AMHolderButton  swift 4, iOS 11
 
-![ezgif-2-5efc5b7c22](https://user-images.githubusercontent.com/17800816/33937081-49c26152-e017-11e7-9600-59a147d3ae2e.gif)
+![ezgif-3-32e9f9344e](https://user-images.githubusercontent.com/17800816/33937652-80375b8c-e019-11e7-970b-8289bb089acf.gif)
 
 ### Storyboard
 - Drag a UIButton onto your view.
