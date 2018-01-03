@@ -10,7 +10,7 @@
 - Create the button as a property of it's View Controller
 - In the `viewDidLoad()` method of your View Controller, set the button's `holdButtonCompletion` property to tell the button what to do when it's done animating.
 
-For an example of creating a RMHoldButton in storyboard, check out the example project.
+For an example of creating a AMHoldButton in storyboard, check out the example project.
 
 ### Programatically
 - Initialize the button
@@ -18,7 +18,7 @@ For an example of creating a RMHoldButton in storyboard, check out the example p
 
 Example:
 ```swift 4
-let bttn = RMHoldButton(frame: CGRect(x: 0, y: 0 , width: 200, height: 50), slideColor: UIColor.green, slideTextColor: UIColor.white, slideDuration: 1.0)
+let bttn = AMHoldButton(frame: CGRect(x: 0, y: 0 , width: 200, height: 50), slideColor: UIColor.green, slideTextColor: UIColor.white, slideDuration: 1.0)
 bttn.backgroundColor = UIColor.clear
 bttn.setText("👍🏻")
 bttn.setTextFont(UIFont.boldSystemFont(ofSize: 18))
